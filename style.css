@@ -1,0 +1,42 @@
+.header {
+    color: white;
+    background: #f78e69;
+    padding: 40px;
+    text-align: right;
+}
+
+.pandaUno {
+
+    background-image: url(img-panda/img/uno.jpg);
+    height: 300px;
+    background-size: cover;
+    background-position-y: center;
+
+}
+
+.separacion {
+
+    background: #f78e69;
+    padding: 10px;
+}
+
+.fondoverde {
+
+    background-color: #abe188;
+    background-size: cover;
+    background-position-y: center;
+    padding: 30px;
+
+    
+}
+
+.stylebox {
+
+    color: white;
+    background: #f78e69;
+    background-size: cover;
+    background-position-y: center;
+    padding: 10px;
+   
+
+}
