@@ -40,3 +40,27 @@
    
 
 }
+.pandaDos {
+    background-image: url(img-panda/img/dos.jpg);
+    height: 300px;
+    background-size: cover;
+    background-position-y: center;
+
+
+}
+.article {
+    margin: 40px auto;
+    text-align: center;
+    padding: 30px;
+}
+.pandaTres {
+    background-image: url(img-panda/img/tres.jpg);
+    height: 300px;
+    background-size: cover;
+    background-position-y: center;
+}
+.footer {
+    padding: 10px;
+    text-align: right;
+    color: white
+}
